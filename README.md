@@ -11,3 +11,13 @@ new advances in technology.
 My knowledge includes languages such as Java, Python, Javascript, 
 scripting languages such as bash and powershell 
 and database management such as SQL and SAP HANA. 
+
+##
+
+### My skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+<p/>
+
+##
