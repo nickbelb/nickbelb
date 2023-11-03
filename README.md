@@ -17,7 +17,7 @@ and database management such as SQL and SAP HANA.
 ### My skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=f0f8ff&color=1e6cf7"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=f5f5f5&color=1e6cf7"/>&nbsp;
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=#F7DF1E&color=2aa889"/>&nbsp;
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=#F7DF1E&color=2aa889"/>&nbsp;
 <p/>
