@@ -1,8 +1,8 @@
 
-##About me
+## About me
 
 My name is Nicolas Beltran, a systems engineer currently pursuing
-a diploma in software development at MITT in Winnipeg Canada.
+a diploma in software development at MITT in Winnipeg,Canada.
 
 I am a professional passionate about software development who likes 
 to learn new things every day as well as to keep up to date with 
