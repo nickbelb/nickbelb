@@ -1,4 +1,4 @@
-
+![](./assets/banner.png)
 ## About me
 
 My name is Nicolas Beltran, a systems engineer currently pursuing
